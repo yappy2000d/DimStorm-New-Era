@@ -5,10 +5,10 @@
   <br / >
   DimStorm - New Era
 </h1>
-<p align="center">
-<img src="https://cf.way2muchnoise.eu/1137333.svg?badge_style=for_the_badge"/ >
-<img src="https://cf.way2muchnoise.eu/versions/1137333_latest.svg?badge_style=for_the_badge"/ >
-</p>
+<p align="center"><a href="https://www.curseforge.com/minecraft/modpacks/dimstorm-new-era">
+  <img src="https://cf.way2muchnoise.eu/1137333.svg?badge_style=for_the_badge" / >
+  <img src="https://cf.way2muchnoise.eu/versions/1137333_latest.svg?badge_style=for_the_badge"/ >
+</a></p>
 
 ## Overview
 
