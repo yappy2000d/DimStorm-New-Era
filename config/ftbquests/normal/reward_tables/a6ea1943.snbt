@@ -1,0 +1,24 @@
+{
+	title: "TiC StartUp",
+	loot_size: 1,
+	rewards: [{
+		title: "燧石×2",
+		item: "minecraft:flint",
+		count: 2
+	},
+	{
+		title: "仙人掌×2",
+		item: "minecraft:cactus",
+		count: 2
+	},
+	{
+		title: "骨头×2",
+		item: "minecraft:bone",
+		count: 2
+	},
+	{
+		title: "圆石×10",
+		item: "minecraft:cobblestone",
+		count: 10
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Quark",
+	disable_toast: true,
+	x: 3.0d,
+	y: 1.0d,
+	description: "雜項",
+	text: [
+		"+ 「Z」切換快捷欄",
+		"+ 多了整理包包的按鈕",
+		"+ 當工具快壞掉時自動補充"
+	],
+	dependencies: [
+		"6eaa9ee1"
+	],
+	tasks: [{
+		uid: "2ef26f7a",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "FTB Utilities",
+	x: 5.0d,
+	y: 1.0d,
+	text: [
+		"+ 使用FTB組隊共享任務進度",
+		"+ 在背包介面的左上角點擊「認領區塊」",
+		"",
+		"指令列表",
+		"+ /home：傳送回家",
+		"+ /sethome：設定家",
+		"+ /delhome：刪除家",
+		"+ /spawn：傳送回重生點",
+		"+ /back：傳送回死亡點",
+		"+ /tpa <ID>：傳送到玩家（需玩家同意）"
+	],
+	dependencies: [
+		"6eaa9ee1"
+	],
+	tasks: [{
+		uid: "b98e3999",
+		type: "checkmark",
+		title: "多人遊玩"
+	}]
+}

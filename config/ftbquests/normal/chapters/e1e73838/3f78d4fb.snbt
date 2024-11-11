@@ -1,0 +1,20 @@
+{
+	title: "FTB Ultimine",
+	disable_toast: true,
+	x: -3.0d,
+	y: 1.0d,
+	description: "連鎖破壞",
+	text: [
+		"按住「~」鍵可以啟用連鎖破壞。",
+		"+ 使用鋤頭時按住可以一次耕種多個方塊。",
+		"+ 右鍵單擊農作物簡化收割過程。",
+		"按住「~」鍵的同時按住「Shift」並滾動滑鼠滾輪可以改變連鎖挖掘的形狀。"
+	],
+	dependencies: [
+		"6eaa9ee1"
+	],
+	tasks: [{
+		uid: "d958852f",
+		type: "checkmark"
+	}]
+}

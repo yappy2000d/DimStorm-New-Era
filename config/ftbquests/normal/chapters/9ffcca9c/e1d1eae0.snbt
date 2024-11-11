@@ -1,0 +1,19 @@
+{
+	title: "Tinkers' Construct",
+	icon: "tconstruct:book",
+	x: 0.0d,
+	y: 0.0d,
+	description: "匠魂模組",
+	text: [
+		"可以用不同材料來製作與強化工具。匠魂工具不會消失（岩漿、火焰、仙人掌與自然清除）耐久度耗盡時也不會消失，而是變成不可使用的破損材質。"
+	],
+	tasks: [{
+		uid: "be032c5d",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "40882ba9",
+		type: "item",
+		item: "tconstruct:book"
+	}]
+}
