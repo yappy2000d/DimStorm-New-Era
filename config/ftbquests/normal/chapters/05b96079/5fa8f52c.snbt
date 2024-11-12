@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	shape: "gear",
+	dependencies: [
+		"eb6afa62",
+		"ae394ebe"
+	],
+	tasks: [{
+		uid: "4c86a22f",
+		type: "item",
+		items: [{
+			item: "academy:dev_advanced"
+		}]
+	}]
+}

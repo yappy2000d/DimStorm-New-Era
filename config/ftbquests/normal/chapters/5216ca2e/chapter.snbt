@@ -1,0 +1,7 @@
+{
+	title: "末影存儲",
+	icon: "enderstorage:ender_pouch",
+	always_invisible: false,
+	group: 1977197221,
+	default_quest_shape: ""
+}

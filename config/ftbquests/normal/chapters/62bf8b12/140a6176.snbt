@@ -1,0 +1,25 @@
+{
+	x: 1.0d,
+	y: 4.5d,
+	dependencies: [
+		"9c644062"
+	],
+	tasks: [{
+		uid: "78bd78a0",
+		type: "item",
+		items: [{
+			item: "academy:matrix"
+		}]
+	}],
+	rewards: [{
+		uid: "b6d6fb56",
+		type: "item",
+		item: "academy:mat_core"
+	},
+	{
+		uid: "baea2ed5",
+		type: "item",
+		item: "academy:constraint_plate",
+		count: 3
+	}]
+}

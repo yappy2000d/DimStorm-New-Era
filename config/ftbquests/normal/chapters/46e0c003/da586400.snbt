@@ -1,0 +1,88 @@
+{
+	title: "外掛槍",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Memory: [],
+				Battery: 0,
+				Time: 0
+			}
+		},
+		id: "psi:cad",
+		tag: {
+			componentCORE: {
+				id: "psi:cad_core",
+				Count: 1b,
+				Damage: 3s
+			},
+			componentASSEMBLY: {
+				id: "psi:cad_assembly",
+				Count: 1b,
+				Damage: 5s
+			},
+			componentSOCKET: {
+				id: "psi:cad_socket",
+				Count: 1b,
+				Damage: 3s
+			},
+			componentBATTERY: {
+				id: "psi:cad_battery",
+				Count: 1b,
+				Damage: 2s
+			}
+		}
+	},
+	disable_toast: true,
+	x: 0.0d,
+	y: 2.5d,
+	text: [
+		""
+	],
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "429f67b5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "minecraft:command_block"
+		}]
+	}],
+	rewards: [{
+		uid: "a3d984bb",
+		type: "item",
+		auto: "disabled",
+		item: {
+			ForgeCaps: {
+				Parent: {
+					Memory: [],
+					Battery: 0,
+					Time: 0
+				}
+			},
+			id: "psi:cad",
+			tag: {
+				componentCORE: {
+					id: "psi:cad_core",
+					Count: 1b,
+					Damage: 3s
+				},
+				componentASSEMBLY: {
+					id: "psi:cad_assembly",
+					Count: 1b,
+					Damage: 5s
+				},
+				componentSOCKET: {
+					id: "psi:cad_socket",
+					Count: 1b,
+					Damage: 3s
+				},
+				componentBATTERY: {
+					id: "psi:cad_battery",
+					Count: 1b,
+					Damage: 2s
+				}
+			}
+		}
+	}]
+}

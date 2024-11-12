@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	dependencies: [
+		"344d4331"
+	],
+	tasks: [{
+		uid: "b01815b5",
+		type: "item",
+		items: [{
+			item: "academy:phase_gen"
+		}]
+	}]
+}

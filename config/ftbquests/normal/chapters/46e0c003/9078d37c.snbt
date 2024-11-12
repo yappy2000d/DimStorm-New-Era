@@ -1,0 +1,27 @@
+{
+	title: "外掛貓",
+	icon: "academy:cat_engine",
+	disable_toast: true,
+	x: -1.5d,
+	y: 2.5d,
+	text: [
+		""
+	],
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "129f8242",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "minecraft:command_block"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "3f9ff931",
+		type: "item",
+		auto: "disabled",
+		item: "academy:cat_engine"
+	}]
+}

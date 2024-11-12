@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	dependencies: [
+		"63a68768"
+	],
+	tasks: [{
+		uid: "625044f3",
+		type: "item",
+		items: [{
+			item: "academy:crystal_normal"
+		}]
+	}]
+}

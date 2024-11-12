@@ -1,0 +1,17 @@
+{
+	title: "基礎電網",
+	x: 0.0d,
+	y: 6.0d,
+	shape: "gear",
+	text: [
+		""
+	],
+	dependencies: [
+		"140a6176",
+		"0d111312"
+	],
+	tasks: [{
+		uid: "13bfbfef",
+		type: "checkmark"
+	}]
+}

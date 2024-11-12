@@ -2,7 +2,8 @@
 	title: "完成",
 	x: 1.0d,
 	y: 3.0d,
-	shape: "hexagon",
+	shape: "gear",
+	description: "登入就送超值好禮！",
 	text: [
 		""
 	],
@@ -18,9 +19,50 @@
 		type: "checkmark"
 	}],
 	rewards: [{
-		uid: "cfe0bd1b",
+		uid: "37ea498f",
 		type: "item",
-		item: "minecraft:log",
-		count: 5
+		item: {
+			id: "quark:backpack",
+			tag: {
+				Inventory: [{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}]
+			}
+		}
+	},
+	{
+		uid: "ad0530be",
+		type: "item",
+		item: "minecraft:torch",
+		count: 10
+	},
+	{
+		uid: "dc24fbe9",
+		type: "item",
+		item: "lmreengaged:maid_contract"
 	}]
 }

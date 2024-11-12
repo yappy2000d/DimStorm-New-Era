@@ -1,0 +1,19 @@
+{
+	title: "完成",
+	x: 1.5d,
+	y: 6.0d,
+	shape: "gear",
+	description: "容量升級",
+	text: [
+		""
+	],
+	dependencies: [
+		"94094c9d",
+		"5e5361f8"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "b93e73ea",
+		type: "checkmark"
+	}]
+}

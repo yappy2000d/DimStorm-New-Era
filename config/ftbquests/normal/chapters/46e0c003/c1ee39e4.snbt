@@ -1,27 +1,33 @@
 {
 	title: "能力诱导因子",
 	icon: "academy:induction_factor 1 2",
+	disable_toast: true,
 	x: 0.0d,
 	y: 0.0d,
 	description: "硬币×30",
 	text: [
 		""
 	],
+	can_repeat: true,
 	dependencies: [
 		"364a497e"
 	],
 	hide: true,
+	optional: true,
 	tasks: [{
 		uid: "85be0d7c",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "academy:coin"
 		}],
-		count: 30L
+		count: 30L,
+		consume_items: true
 	}],
 	rewards: [{
 		uid: "a757e5a7",
 		type: "choice",
+		auto: "disabled",
 		table: 1
 	}]
 }

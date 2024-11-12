@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "df101cdd",
+		type: "item",
+		items: [{
+			item: "quark:pipe"
+		}]
+	}]
+}

@@ -1,6 +1,7 @@
 {
 	title: "商店",
 	icon: "minecraft:command_block",
+	disable_toast: true,
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

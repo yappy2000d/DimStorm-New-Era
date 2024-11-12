@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	dependencies: [
+		"ccb006b7"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7dc81bc2",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_pouch"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

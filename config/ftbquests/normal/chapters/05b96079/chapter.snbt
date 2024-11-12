@@ -1,0 +1,7 @@
+{
+	title: "提純",
+	icon: "academy:crystal_normal",
+	always_invisible: false,
+	group: 1656720146,
+	default_quest_shape: ""
+}

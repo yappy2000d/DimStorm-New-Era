@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "baad496b",
+		type: "item",
+		items: [{
+			item: "psi:cad_assembler"
+		}]
+	}]
+}

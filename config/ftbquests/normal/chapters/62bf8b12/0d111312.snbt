@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 4.5d,
+	dependencies: [
+		"9c644062"
+	],
+	tasks: [{
+		uid: "bb069768",
+		type: "item",
+		items: [{
+			item: "academy:node_basic"
+		}]
+	}]
+}

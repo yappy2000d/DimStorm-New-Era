@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	dependencies: [
+		"0c1c62f4"
+	],
+	tasks: [{
+		uid: "8060a8e8",
+		type: "item",
+		items: [{
+			item: "academy:matter_unit"
+		}]
+	}]
+}

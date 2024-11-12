@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	dependencies: [
+		"66d9176d"
+	],
+	tasks: [{
+		uid: "94978835",
+		type: "item",
+		items: [{
+			item: "academy:dev_normal"
+		}]
+	}]
+}

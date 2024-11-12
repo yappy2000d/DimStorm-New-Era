@@ -1,6 +1,6 @@
 {
-	title: "夥伴與家園",
-	icon: "lmreengaged:maid_spawn_egg",
+	title: "交通工具",
+	icon: "minecraft:golden_rail",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

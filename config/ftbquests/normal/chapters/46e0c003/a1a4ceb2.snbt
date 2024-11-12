@@ -1,0 +1,26 @@
+{
+	title: "投桃報「梨」",
+	icon: "biomesoplenty:pear",
+	disable_toast: true,
+	x: -1.5d,
+	y: 0.0d,
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "3d6d2c9b",
+		type: "item",
+		title: "投我以桃",
+		disable_toast: true,
+		items: [{
+			item: "biomesoplenty:peach"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "09aa5675",
+		type: "item",
+		title: "報之以李",
+		team_reward: false,
+		item: "biomesoplenty:pear"
+	}]
+}

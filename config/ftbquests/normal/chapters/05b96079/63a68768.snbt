@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	dependencies: [
+		"6ce064f8"
+	],
+	tasks: [{
+		uid: "82769152",
+		type: "item",
+		items: [{
+			item: "academy:imag_fusor"
+		}]
+	}]
+}
